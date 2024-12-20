@@ -49,7 +49,7 @@ endmodule
 
 
 ```
-Developed by:Rohith V RegisterNumber:24900447
+Developed by:Y.MOHAMMED YAASIR RegisterNumber:24900359
 
 **RTL LOGIC FOR FLIPFLOPS**
 
